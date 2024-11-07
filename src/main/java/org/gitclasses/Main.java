@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("My second commit");
         System.out.println("Third commit");
+        System.out.println("Fourth commit");
     }
 }
