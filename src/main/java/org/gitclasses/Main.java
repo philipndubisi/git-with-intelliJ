@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Fetch example");
         System.out.println("Fetch more example");
         System.out.println("Git pull example");
-        
+        System.out.println("Merge conflict demo 2");
     }
 }
