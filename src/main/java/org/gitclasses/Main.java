@@ -20,13 +20,5 @@ public class Main {
         for(int i=10;i<20;i++){
             System.out.println(i);
         }
-        System.out.println("First commit in feature1 branch");
-        System.out.println("Second commit in feature1 branch");
-        int a = 10;
-        int b = 100;
-        if (a == b) {
-            System.out.println("Both are equal");
-        }
-        System.out.println("New commit in master branch");
     }
 }
