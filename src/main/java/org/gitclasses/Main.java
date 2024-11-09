@@ -25,5 +25,6 @@ public class Main {
         System.out.println("First commit in main");
         System.out.println("Second commit in main");
         System.out.println("Cherry picking first commit in master branch");
+        System.out.println("Cherry picking first commit in feature1 branch");
     }
 }
