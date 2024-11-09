@@ -22,5 +22,11 @@ public class Main {
         }
         System.out.println("First commit in feature1 branch");
         System.out.println("Second commit in feature1 branch");
+        int a = 10;
+        int b = 100;
+        if (a == b) {
+            System.out.println("Both are equal");
+        }
+        System.out.println("New commit in master branch");
     }
 }
